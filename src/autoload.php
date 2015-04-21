@@ -124,6 +124,7 @@ spl_autoload_register(
                 'sebastianbergmann\\money\\nio' => '/currency/NIO.php',
                 'sebastianbergmann\\money\\nok' => '/currency/NOK.php',
                 'sebastianbergmann\\money\\npr' => '/currency/NPR.php',
+                'sebastianbergmann\\money\\nullcurrency' => '/NullCurrency.php',
                 'sebastianbergmann\\money\\nzd' => '/currency/NZD.php',
                 'sebastianbergmann\\money\\omr' => '/currency/OMR.php',
                 'sebastianbergmann\\money\\overflowexception' => '/exceptions/OverflowException.php',
@@ -194,6 +195,7 @@ spl_autoload_register(
                 'sebastianbergmann\\money\\xxx' => '/currency/XXX.php',
                 'sebastianbergmann\\money\\yer' => '/currency/YER.php',
                 'sebastianbergmann\\money\\zar' => '/currency/ZAR.php',
+                'sebastianbergmann\\money\\zeromoney' => '/ZeroMoney.php',
                 'sebastianbergmann\\money\\zmw' => '/currency/ZMW.php',
                 'sebastianbergmann\\money\\zwl' => '/currency/ZWL.php'
             );
